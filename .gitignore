@@ -1,0 +1,4 @@
+/venv/
+requirements_2.txt
+OCRModel-CPU.pickle
+OCRModel-GPU.pickle
